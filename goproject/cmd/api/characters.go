@@ -3,7 +3,7 @@ package main
 import (
 	"errors" // New import
 	"fmt"
-	"goproject/internal/data"
+	"goproject/pkg/data"
 	"net/http"
 )
 
