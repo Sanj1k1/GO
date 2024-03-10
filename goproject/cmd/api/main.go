@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 	_ "github.com/lib/pq"
-	"goproject/internal/data"
+	"goproject/pkg/data"
 	"log"
 	"net/http"
 	"os"
